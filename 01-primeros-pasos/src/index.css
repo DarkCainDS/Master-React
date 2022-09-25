@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#caja{
+  font-size: large ;
+  width: 200px;
+  height: 200px;
+  border: 5px solid white ;
+  background-color: rgb(74, 80, 160);
+  color:rgb(10, 187, 119);
+  text-align: center;
+  line-height: 200px;
+}

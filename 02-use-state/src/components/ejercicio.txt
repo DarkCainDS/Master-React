@@ -1,0 +1,15 @@
+1.-Crear un componente
+
+2.-Recibir una prop con el año actual
+
+
+3.-ojo,usar funciones para sacar el año
+
+4.-Usar estados y eventos para tener dos botones.
+-pasar al proximo año
+-ir al año anterior
+-mostrar en todo momento el año por pantalla
+
+5.-VAlidar que el año sea un numero y que sea requeridos (prop)
+
+6.-Cambiar el año mediante un iput de texto y que se cambie dinamicamente
